@@ -15,3 +15,6 @@ Run `signals` to start the process. It will output any signals it receives and
 exit on most signals, but on USR1 and USR2 it will output the signal but not
 exit.
 
+## Public Domain
+
+To the extent possible by law I waive all copyright and related or neighboring rights relating to this project, effective January 26, 2019.
